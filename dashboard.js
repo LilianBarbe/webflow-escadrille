@@ -1,3 +1,5 @@
+"use strict";
+
 // TIPPY
 tippy("[data-tippy-content]");
 

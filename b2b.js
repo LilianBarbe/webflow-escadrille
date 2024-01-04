@@ -1,3 +1,5 @@
+"use strict";
+
 // //// TIPPY
 console.log("test nicolas");
 tippy("[data-tippy-content]");
